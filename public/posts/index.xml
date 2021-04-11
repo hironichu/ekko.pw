@@ -9,16 +9,17 @@
     <description>Recent content in Posts on Ekko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 16:37:18 +0200</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Welcome here traveler</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 11 Apr 2021 16:37:18 +0200</pubDate>
       
-      <guid>/posts/test/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>
         
           
@@ -27,7 +28,8 @@
         
         
         
-          Welcome ! 
+          This is my first post on this blog  I am going to post a writeup really soon!
+ 
           
         
         </description>
