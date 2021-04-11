@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ekko.pw/sitemap.xml

@@ -1,0 +1,97 @@
+baseURL: "https://ekko.pw/"
+title: Ekk0x00
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Ekk0x00
+    description: "My personal blog"
+    keywords: [Blog, Portfolio, PaperMod, Ekko, Hironichu]
+    author: Ekko
+    images: ["/ekko_png.png"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: dark # dark, light
+    disableThemeToggle: true
+
+    ShowReadingTime: true
+    ShowShareButtons: false
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        disableFingerprinting: true
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.ico"
+        favicon32x32: "/favicon-32x32.ico"
+        apple_touch_icon: "/apple-touch-icon.png"
+        safari_pinned_tab: "/apple-touch-icon.png"
+
+    label:
+        text: " "
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    homeInfoParams:
+        Title: "Hello Friend"
+        Content: "This is my personal blog/portfolio"
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/Ekk0x00"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/hironichu"
+        - name: github
+          url: "https://github.com/hironichu"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/hironichu/ekko.pw/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: WHOAMI
+          name: WHOAMI
+          url: /about
+          weight: 20
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 10

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://ekko.pw/</loc>
     <lastmod>2021-04-11T16:37:18+02:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://ekko.pw/posts/</loc>
     <lastmod>2021-04-11T16:37:18+02:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://ekko.pw/posts/my-first-post/</loc>
     <lastmod>2021-04-11T16:37:18+02:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://ekko.pw/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://ekko.pw/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://ekko.pw/tags/</loc>
   </url>
 </urlset>
