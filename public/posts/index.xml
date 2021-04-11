@@ -5,8 +5,8 @@
     <link>https://ekko.pw/posts/</link>
     <description>Recent content in Posts on Ekk0x00</description>
     <image>
-      <url>https://ekko.pw/static/ekko_png.png</url>
-      <link>https://ekko.pw/static/ekko_png.png</link>
+      <url>https://ekko.pw/ekko_png.png</url>
+      <link>https://ekko.pw/ekko_png.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 11 Apr 2021 16:37:18 +0200</lastBuildDate><atom:link href="https://ekko.pw/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,8 @@
       <pubDate>Sun, 11 Apr 2021 16:37:18 +0200</pubDate>
       
       <guid>https://ekko.pw/posts/my-first-post/</guid>
-      <description>This is my first post on this blog  I am going to post a writeup really soon!
+      <description>This is my first post on this blog, thanks for reading this, but this is just a test.
+ I am going to post a writeup really soon!
  </description>
     </item>
     

@@ -5,8 +5,8 @@
     <link>https://ekko.pw/categories/</link>
     <description>Recent content in Categories on Ekk0x00</description>
     <image>
-      <url>https://ekko.pw/static/ekko_png.png</url>
-      <link>https://ekko.pw/static/ekko_png.png</link>
+      <url>https://ekko.pw/ekko_png.png</url>
+      <link>https://ekko.pw/ekko_png.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://ekko.pw/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
