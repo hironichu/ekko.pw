@@ -83,15 +83,11 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: WHOAMI
-          name: WHOAMI
+        - identifier: Whoami
+          name: Whoami
           url: /about
           weight: 20
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 10
-        - identifier: tags
-          name: tags
+        - identifier: Tags
+          name: Tags
           url: /tags/
           weight: 10
