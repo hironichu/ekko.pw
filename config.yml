@@ -22,7 +22,7 @@ params:
     author: Ekko
     images: ["/ekko_png.png"]
     DateFormat: "January 2, 2006"
-    defaultTheme: dark # dark, light
+    defaultTheme: dark
     disableThemeToggle: true
 
     ShowReadingTime: true
@@ -31,21 +31,19 @@ params:
     ShowBreadCrumbs: true
     disableSpecial1stPost: false
     disableScrollToTop: false
-    comments: false
+    comments: true
     hidemeta: false
     hideSummary: false
     showtoc: false
     tocopen: false
 
     assets:
-        # disableHLJS: true # to disable highlight.js
         disableFingerprinting: true
         favicon: "/favicon.ico"
         favicon16x16: "/favicon-16x16.ico"
         favicon32x32: "/favicon-32x32.ico"
         apple_touch_icon: "/apple-touch-icon.png"
         safari_pinned_tab: "/apple-touch-icon.png"
-
     label:
         text: " "
         icon: /apple-touch-icon.png
@@ -56,22 +54,26 @@ params:
         Content: "This is my personal blog/portfolio"
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/Ekk0x00"
-        - name: stackoverflow
-          url: "https://stackoverflow.com/hironichu"
         - name: github
           url: "https://github.com/hironichu"
+        - name: twitter
+          url: "https://twitter.com/Ekk0x00"
+        - name: discord
+          url: "https://ekko.pw/discord"
+        - name: hackthebox
+          url: "https://app.hackthebox.eu/profile/307291"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UCeLVTuvk10jlmv1e5qcCyIA"
 
     cover:
-        hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: true # hide on single page
+        hidden: true
+        hiddenInList: true
+        hiddenInSingle: true
 
     editPost:
         URL: "https://github.com/hironichu/ekko.pw/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+        Text: "Suggest Changes"
+        appendFilePath: true
 
     fuseOpts:
         isCaseSensitive: false

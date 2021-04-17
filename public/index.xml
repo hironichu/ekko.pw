@@ -9,16 +9,23 @@
       <link>https://ekko.pw/ekko_png.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Apr 2021 16:37:18 +0200</lastBuildDate><atom:link href="https://ekko.pw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 08:13:28 +0200</lastBuildDate><atom:link href="https://ekko.pw/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome here traveler</title>
+      <title>Writeup : Midnightflag - Route Moi</title>
+      <link>https://ekko.pw/posts/route-moi/</link>
+      <pubDate>Mon, 12 Apr 2021 08:13:28 +0200</pubDate>
+      
+      <guid>https://ekko.pw/posts/route-moi/</guid>
+      <description>A Midnightflag challenge</description>
+    </item>
+    
+    <item>
+      <title>Welcome traveler</title>
       <link>https://ekko.pw/posts/my-first-post/</link>
       <pubDate>Sun, 11 Apr 2021 16:37:18 +0200</pubDate>
       
       <guid>https://ekko.pw/posts/my-first-post/</guid>
-      <description>This is my first post on this blog, thanks for reading this, but this is just a test.
- I am going to post a writeup really soon!
- </description>
+      <description>This is my first post :O</description>
     </item>
     
     <item>
@@ -27,7 +34,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ekko.pw/about/</guid>
-      <description>WHOAMI? My name is Nassim, but you might know me as Hironichu or now Ekko, I am a self-taught developer and security researcher, old 42 student, and passionate about internet and social networks</description>
+      <description>WHOAMI? Hi !
+My name is Nassim, but you might know me as Hironichu or now Ekko, I am a self-taught developer and security researcher, old 42 student, and passionate about internet and social networks
+ I am planning on adding more here, but for now I don&amp;rsquo;t know what :)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ekko.pw/discord/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ekko.pw/discord/</guid>
+      <description>Add me on discord  Hireo#3517
+ Sometimes I do change the privacy of my account so you might not be able to add me, try later if it&amp;rsquo;s the case</description>
     </item>
     
   </channel>
