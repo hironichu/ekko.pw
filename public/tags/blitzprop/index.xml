@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blitzprop on Ekk0x00</title>
+    <link>https://ekko.pw/tags/blitzprop/</link>
+    <description>Recent content in blitzprop on Ekk0x00</description>
+    <image>
+      <url>https://ekko.pw/ekko_png.png</url>
+      <link>https://ekko.pw/ekko_png.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Apr 2021 07:50:30 +0200</lastBuildDate><atom:link href="https://ekko.pw/tags/blitzprop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writeup : CyberApocalypse - Blitzprop</title>
+      <link>https://ekko.pw/posts/write-up/blitzprop/</link>
+      <pubDate>Fri, 30 Apr 2021 07:50:30 +0200</pubDate>
+      
+      <guid>https://ekko.pw/posts/write-up/blitzprop/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

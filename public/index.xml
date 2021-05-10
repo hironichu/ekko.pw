@@ -9,13 +9,22 @@
       <link>https://ekko.pw/ekko_png.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Apr 2021 08:13:28 +0200</lastBuildDate><atom:link href="https://ekko.pw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Apr 2021 07:50:30 +0200</lastBuildDate><atom:link href="https://ekko.pw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writeup : CyberApocalypse - Blitzprop</title>
+      <link>https://ekko.pw/posts/write-up/blitzprop/</link>
+      <pubDate>Fri, 30 Apr 2021 07:50:30 +0200</pubDate>
+      
+      <guid>https://ekko.pw/posts/write-up/blitzprop/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Writeup : Midnightflag - Route Moi</title>
-      <link>https://ekko.pw/posts/route-moi/</link>
+      <link>https://ekko.pw/posts/write-up/route-moi/</link>
       <pubDate>Mon, 12 Apr 2021 08:13:28 +0200</pubDate>
       
-      <guid>https://ekko.pw/posts/route-moi/</guid>
+      <guid>https://ekko.pw/posts/write-up/route-moi/</guid>
       <description>A Midnightflag challenge</description>
     </item>
     
@@ -45,7 +54,7 @@ My name is Nassim, but you might know me as Hironichu or now Ekko, I am a self-t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ekko.pw/discord/</guid>
-      <description>Add me on discord  Hireo#3517
+      <description>Add me on discord  Hironichu#0001
  Sometimes I do change the privacy of my account so you might not be able to add me, try later if it&amp;rsquo;s the case</description>
     </item>
     

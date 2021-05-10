@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ekko.pw/tags/blitzprop/</loc>
+    <lastmod>2021-04-30T07:50:30+02:00</lastmod>
+  </url><url>
     <loc>https://ekko.pw/</loc>
-    <lastmod>2021-04-12T08:13:28+02:00</lastmod>
+    <lastmod>2021-04-30T07:50:30+02:00</lastmod>
   </url><url>
     <loc>https://ekko.pw/posts/</loc>
-    <lastmod>2021-04-12T08:13:28+02:00</lastmod>
+    <lastmod>2021-04-30T07:50:30+02:00</lastmod>
+  </url><url>
+    <loc>https://ekko.pw/tags/</loc>
+    <lastmod>2021-04-30T07:50:30+02:00</lastmod>
+  </url><url>
+    <loc>https://ekko.pw/tags/writeup/</loc>
+    <lastmod>2021-04-30T07:50:30+02:00</lastmod>
+  </url><url>
+    <loc>https://ekko.pw/posts/write-up/blitzprop/</loc>
+    <lastmod>2021-04-30T07:50:30+02:00</lastmod>
   </url><url>
     <loc>https://ekko.pw/tags/route-moi/</loc>
     <lastmod>2021-04-12T08:13:28+02:00</lastmod>
   </url><url>
-    <loc>https://ekko.pw/tags/</loc>
-    <lastmod>2021-04-12T08:13:28+02:00</lastmod>
-  </url><url>
-    <loc>https://ekko.pw/tags/writeup/</loc>
-    <lastmod>2021-04-12T08:13:28+02:00</lastmod>
-  </url><url>
-    <loc>https://ekko.pw/posts/route-moi/</loc>
+    <loc>https://ekko.pw/posts/write-up/route-moi/</loc>
     <lastmod>2021-04-12T08:13:28+02:00</lastmod>
   </url><url>
     <loc>https://ekko.pw/tags/news/</loc>
