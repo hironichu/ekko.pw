@@ -18,7 +18,7 @@ ShowReadingTime: true
 
 > It's cold outside, don't stay
 
-![](https://camo.githubusercontent.com/134d05dd36689b5dfa22a51fccc71c7e375e62b1680742e32bdce4351bb2f0e2/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737353631303132303031313930373039342f3831363837363736343236343339383837382f46726f73746269746542696744656661756c742e706e67)
+![](https://cdn.discordapp.com/attachments/161026501356158976/860489717362720818/FrostbiteLogoBit.png)
 
 Hello my fellow friends, I wanted to share with you the work i have been doing on this little project
 called Frostbite.
@@ -37,7 +37,7 @@ https://github.com/hironichu/FrostbiteGame
 
 And, if you wish to run the """"game"""" for yourself, you can find here the link of the live-running version :
 
-https://frostbite.ekko.pw/
+`[Link removed but will be updated soon]`
 
 >like I said, there is Absolutely NOTHING working, don't post issues relating to this, if you do want to help, please just be helpful and kind.
 
